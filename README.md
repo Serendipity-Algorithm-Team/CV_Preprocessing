@@ -1,4 +1,11 @@
-# CV_Preprocessing
+## Introduction
+此项目包含所有关于洁面仪图像预处理的代码。首先我们要明确此项目中的图像预处理的作用: <br>
+1. 确保模型学习到的特征是残妆的相关特征。<br>
+2. 去除因为各种原因损坏了的照片的影响。<br>
+3. 能够应对更多的使用场景。
+
+## System Design
+清楚了图像处理的作用，我们基于需求设计了相关系统。
 
 ## File
 preprocessing - main function <br>
