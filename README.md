@@ -5,7 +5,8 @@
 3. 能够应对更多的使用场景。
 
 ## System Design
-清楚了图像处理的作用，我们基于需求设计了相关系统。
+清楚了图像处理的作用，我们基于需求设计了相关系统。<br>
+![img](https://github.com/Serendipity-Algorithm-Team/CV_Preprocessing/blob/main/img/system.png)
 
 ## File
 preprocessing - main function <br>
