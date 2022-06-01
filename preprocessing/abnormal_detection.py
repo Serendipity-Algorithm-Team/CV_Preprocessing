@@ -2,6 +2,7 @@ import random
 
 '''
     This file is used to detect the abnormal images
+    具体的逻辑是随机挑选30条宽度为10像素的像素条进行对rgb每一个通道的错位比较来确定是否为损坏的图像。
 '''
 
 
